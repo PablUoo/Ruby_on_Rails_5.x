@@ -1,4 +1,4 @@
-<h1>Ruby_on_Rails_5.x</h1>h1>
+<h1>Ruby_on_Rails_5.x</h1>
 
 curso localizado na udemy!
 
