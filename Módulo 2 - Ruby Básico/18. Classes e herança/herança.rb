@@ -12,7 +12,7 @@ end
 class PessoaJuridica < Pessoa
   attr_accessor :cnpj
   def pagar_fornecedor
-    puts "Pagando fornecedor..."
+   "Pagando fornecedor..."
   end
 end
 
@@ -45,7 +45,7 @@ p2 = PessoaJuridica.new
 puts p2.nome = "pablo Juridico"
 puts p2.email = "pabloJuridico@gmail.com"
 puts p2.cnpj = "123.123.123/0001"
-p2.pagar_fornecedor
+puts p2.pagar_fornecedor
 
 puts""
 puts "==========================================="
