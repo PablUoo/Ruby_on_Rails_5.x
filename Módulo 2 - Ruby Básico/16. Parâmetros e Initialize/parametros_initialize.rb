@@ -25,6 +25,6 @@ p1 = Pessoa.new
 puts p1.falar("Pablo")
 puts p1.falar2("Tudo!")
 puts p1.falar3("Oie","Pablo Auerelio")
-
-
 p2 = Pessoa.new
+# Em termos gerais podemos comparar uma Classe como...
+# R:uma forma
