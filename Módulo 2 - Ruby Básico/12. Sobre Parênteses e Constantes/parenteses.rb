@@ -1,2 +1,0 @@
-puts ("rails")
-puts "rails"
